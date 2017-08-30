@@ -1,0 +1,11 @@
+main: com.btg.treasurehunter.Main
+name: Treasure Hunter
+version: 0.0.1
+author: TheVerbalMurder and OxKitsune
+description: Description
+commands:
+  commandman:
+    description: Placeholder command
+    usage: /commandman
+    permission: th.commandman
+    permission-message: You don't have the permission to summon Commandman!
