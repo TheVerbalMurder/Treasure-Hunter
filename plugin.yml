@@ -1,5 +1,6 @@
 main: com.btg.treasurehunter.core.Core
 name: Treasure Hunter
+depend: [Factions]
 version: 0.0.1
 author: TheVerbalMurder and OxKitsune
 description: Description
